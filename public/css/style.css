@@ -1,0 +1,14 @@
+*, ::after, ::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.block {
+  background-color: #15DEA5;
+}
+.block--element {
+  color: red;
+}
+
+/*# sourceMappingURL=style.css.map */

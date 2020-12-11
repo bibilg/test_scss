@@ -1,0 +1,19 @@
+{
+  "name": "test_scss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./scss/main.scss:./public/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bibilg/test_scss.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bibilg/test_scss/issues"
+  },
+  "homepage": "https://github.com/bibilg/test_scss#readme"
+}
